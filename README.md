@@ -15,7 +15,7 @@ Built with HTML, CSS, and JavaScript
 
 -run node index.js in terminal and place the desired link
 
--open index.html with live server or equivalent to find your QR code
+-open index.html with live server or equivalent to find your QR code OR Open the image file inside the folder directory 
 
 
 📝 Additional Tip
